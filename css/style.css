@@ -89,7 +89,7 @@ p{
   height: 350px;
   margin-top: 10px;
   margin-bottom: 10px;
-  background: linear-gradient(#ff5252, #b33939);
+  background: linear-gradient(#fffc5242, #261e80);
   transition:.6s;
   
   transform: rotatex(75deg) translatey(-200px) translatez(-100px);
