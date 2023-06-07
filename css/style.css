@@ -21,7 +21,7 @@ body {
   height: 350px;
   margin-top: 10px;
   margin-bottom: 10px;
-  background: linear-gradient(rgb(225,150,58),rgb(227,144,91));
+  background: linear-gradient(rgb(87, 58, 225),rgb(227,144,91));
   transition:.6s;
   
   transform: rotatex(75deg) translatey(-200px) translatez(-100px);
