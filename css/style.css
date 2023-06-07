@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:700');
 @import url('https://fonts.googleapis.com/css?family=Abel');
 body {
-  background-color: #dfe6e9;
+  background-color: #5ea9ac38;;
   -webkit-transform: perspective(900px);
   -webkit-transform-style: preserve-3d;
 }
@@ -21,7 +21,7 @@ body {
   height: 350px;
   margin-top: 10px;
   margin-bottom: 10px;
-  background: linear-gradient(rgb(87, 58, 225),rgb(227,144,91));
+  background: linear-gradient(rgba(225, 222, 58, 0.15),rgba(179, 18, 18, 0.79));
   transition:.6s;
   
   transform: rotatex(75deg) translatey(-200px) translatez(-100px);
@@ -64,7 +64,7 @@ p{
   height: 350px;
   margin-top: 10px;
   margin-bottom: 10px;
-  background: linear-gradient(rgba(209, 79, 79, 0.88),rgb(93,66,103));
+  background: linear-gradient(rgba(205, 209, 79, 0.21),rgb(132, 44, 165));
   animation: animate 1s linear infinite;
   transition:.6s;
   
