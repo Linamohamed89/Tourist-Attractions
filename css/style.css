@@ -64,7 +64,7 @@ p{
   height: 350px;
   margin-top: 10px;
   margin-bottom: 10px;
-  background: linear-gradient(rgb(93,94,170),rgb(93,66,103));
+  background: linear-gradient(rgba(209, 79, 79, 0.88),rgb(93,66,103));
   animation: animate 1s linear infinite;
   transition:.6s;
   
